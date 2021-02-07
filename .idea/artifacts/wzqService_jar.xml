@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wzqService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wzqService_jar</output-path>
+    <root id="archive" name="wzqService.jar">
+      <element id="module-output" name="wzqService" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/fastjson-1.2.74.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
